@@ -10,7 +10,9 @@ Simulations for various structures in CoppeliaSim with Python API
 * simConst.py
 
 ## There are three simulation environments, each associated with one Python script
-### Initiate the simulation environment, then run the python file. The robot is going to follow a trajectory
+### Initiate the simulation environment, then run the python file. The robot is going t follow a trajectory
 * plus.ttt -> plus.py
 * 3x3mixture.ttt -> 3x3mixture.py
 * 4x4TModules.ttt -> 4x4TModules.py
+* genConfig: **NEW** the script to generate structure configurations with homogeneous modules that satisfy 
+a set of task requirements.
