@@ -16,3 +16,4 @@ Simulations for various structures in CoppeliaSim with Python API
 * 4x4TModules.ttt -> 4x4TModules.py
 * genConfig: **NEW** the script to generate structure configurations with homogeneous modules that satisfy 
 a set of task requirements.
+* 4x4TModulesNonRigidConnection.ttt: **NEW** the CoppeliaSim scene that utilizes the dummy connection between rigid bodies to emulate the non-rigid connection between modules in a structure.
